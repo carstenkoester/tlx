@@ -1,0 +1,117 @@
+2014-01-31 05:37:14,739 TRACE  (testLog4cxx.cpp:24) - this is a debug message for detailed code discovery. Value=5
+2014-01-31 05:37:14,739 DEBUG  (testLog4cxx.cpp:25) - this is a debug message.
+2014-01-31 05:37:14,739 INFO   (testLog4cxx.cpp:26) - this is a info message, ignore. Value=5
+2014-01-31 05:37:14,739 WARN   (testLog4cxx.cpp:27) - this is a warn message, not too bad.
+2014-01-31 05:37:14,739 ERROR  (testLog4cxx.cpp:28) - this is a error message, something serious is happening.
+2014-01-31 05:37:14,739 FATAL  (testLog4cxx.cpp:29) - this is a fatal message!!!
+2014-01-31 05:37:14,739 INFO   (testLog4cxx.cpp:14) - Executing functionA.
+2014-01-31 05:37:14,739 INFO   (testLog4cxx.cpp:14) - Executing functionA.
+2014-01-31 05:40:00,910 TRACE  (testLog4cxx.cpp:24) - this is a debug message for detailed code discovery. Value=5
+2014-01-31 05:40:00,910 DEBUG  (testLog4cxx.cpp:25) - this is a debug message.
+2014-01-31 05:40:00,910 INFO   (testLog4cxx.cpp:26) - this is a info message, ignore. Value=5
+2014-01-31 05:40:00,910 WARN   (testLog4cxx.cpp:27) - this is a warn message, not too bad.
+2014-01-31 05:40:00,910 ERROR  (testLog4cxx.cpp:28) - this is a error message, something serious is happening.
+2014-01-31 05:40:00,910 FATAL  (testLog4cxx.cpp:29) - this is a fatal message!!!
+2014-01-31 05:40:00,910 INFO   (testLog4cxx.cpp:14) - Executing functionA.
+2014-01-31 05:40:00,910 INFO   (testLog4cxx.cpp:14) - Executing functionA.
+2014-01-31 05:42:45,676 TRACE  (testLog4cxx.cpp:26) - this is a debug message for detailed code discovery. Value=5
+2014-01-31 05:42:45,676 TRACE  (testLog4cxx.cpp:27) - TEST TEST TEST this is a debug message for detailed code discovery. Value=5
+2014-01-31 05:42:45,676 DEBUG  (testLog4cxx.cpp:28) - this is a debug message.
+2014-01-31 05:42:45,676 INFO   (testLog4cxx.cpp:29) - this is a info message, ignore. Value=5
+2014-01-31 05:42:45,676 WARN   (testLog4cxx.cpp:30) - this is a warn message, not too bad.
+2014-01-31 05:42:45,676 ERROR  (testLog4cxx.cpp:31) - this is a error message, something serious is happening.
+2014-01-31 05:42:45,676 FATAL  (testLog4cxx.cpp:32) - this is a fatal message!!!
+2014-01-31 05:42:45,676 INFO   (testLog4cxx.cpp:16) - Executing functionA.
+2014-01-31 05:42:45,676 INFO   (testLog4cxx.cpp:16) - Executing functionA.
+2014-01-31 05:45:19,919 TRACE  (testLog4cxx.cpp:26) - this is a debug message for detailed code discovery. Value=5
+2014-01-31 05:45:19,919 TRACE  (testLog4cxx.cpp:27) - TEST TEST TEST this is a debug message for detailed code discovery. Value=5
+2014-01-31 05:45:19,919 DEBUG  (testLog4cxx.cpp:28) - this is a debug message.
+2014-01-31 05:45:19,919 INFO   (testLog4cxx.cpp:29) - this is a info message, ignore. Value=5
+2014-01-31 05:45:19,919 WARN   (testLog4cxx.cpp:30) - this is a warn message, not too bad.
+2014-01-31 05:45:19,919 ERROR  (testLog4cxx.cpp:31) - this is a error message, something serious is happening.
+2014-01-31 05:45:19,919 FATAL  (testLog4cxx.cpp:32) - this is a fatal message!!!
+2014-01-31 05:45:19,919 INFO   (testLog4cxx.cpp:16) - Executing functionA.
+2014-01-31 05:45:19,919 INFO   (testLog4cxx.cpp:16) - Executing functionA.
+2014-01-31 05:45:45,398 TRACE  (testLog4cxx.cpp:26) - this is a debug message for detailed code discovery. Value=5
+2014-01-31 05:45:45,398 DEBUG  (testLog4cxx.cpp:28) - this is a debug message.
+2014-01-31 05:45:45,398 INFO   (testLog4cxx.cpp:29) - this is a info message, ignore. Value=5
+2014-01-31 05:45:45,398 WARN   (testLog4cxx.cpp:30) - this is a warn message, not too bad.
+2014-01-31 05:45:45,398 ERROR  (testLog4cxx.cpp:31) - this is a error message, something serious is happening.
+2014-01-31 05:45:45,398 FATAL  (testLog4cxx.cpp:32) - this is a fatal message!!!
+2014-01-31 05:45:45,398 INFO   (testLog4cxx.cpp:16) - Executing functionA.
+2014-01-31 05:45:45,398 INFO   (testLog4cxx.cpp:16) - Executing functionA.
+2014-01-31 05:46:25,015 TRACE  (testLog4cxx.cpp:26) - this is a debug message for detailed code discovery. Value=5
+2014-01-31 05:46:25,015 DEBUG  (testLog4cxx.cpp:28) - this is a debug message.
+2014-01-31 05:46:25,015 INFO   (testLog4cxx.cpp:29) - this is a info message, ignore. Value=5
+2014-01-31 05:46:25,015 WARN   (testLog4cxx.cpp:30) - this is a warn message, not too bad.
+2014-01-31 05:46:25,015 ERROR  (testLog4cxx.cpp:31) - this is a error message, something serious is happening.
+2014-01-31 05:46:25,015 FATAL  (testLog4cxx.cpp:32) - this is a fatal message!!!
+2014-01-31 05:46:25,015 INFO   (testLog4cxx.cpp:16) - Executing functionA.
+2014-01-31 05:46:25,015 INFO   (testLog4cxx.cpp:16) - Executing functionA.
+2014-01-31 05:47:24,132 TRACE  (testLog4cxx.cpp:26) - this is a debug message for detailed code discovery. Value=5
+2014-01-31 05:47:24,132 DEBUG  (testLog4cxx.cpp:28) - this is a debug message.
+2014-01-31 05:47:24,132 INFO   (testLog4cxx.cpp:29) - this is a info message, ignore. Value=5
+2014-01-31 05:47:24,132 WARN   (testLog4cxx.cpp:30) - this is a warn message, not too bad.
+2014-01-31 05:47:24,133 ERROR  (testLog4cxx.cpp:31) - this is a error message, something serious is happening.
+2014-01-31 05:47:24,133 FATAL  (testLog4cxx.cpp:32) - this is a fatal message!!!
+2014-01-31 05:47:24,133 INFO   (testLog4cxx.cpp:16) - Executing functionA.
+2014-01-31 05:47:24,133 INFO   (testLog4cxx.cpp:16) - Executing functionA.
+2014-01-31 05:47:55,403 TRACE  (testLog4cxx.cpp:26) - this is a debug message for detailed code discovery. Value=5
+2014-01-31 05:47:55,404 TRACE  (testLog4cxx.cpp:28) - TEST TEST TEST this is a debug message for detailed code discovery. Value=5
+2014-01-31 05:47:55,404 DEBUG  (testLog4cxx.cpp:29) - this is a debug message.
+2014-01-31 05:47:55,404 INFO   (testLog4cxx.cpp:30) - this is a info message, ignore. Value=5
+2014-01-31 05:47:55,405 WARN   (testLog4cxx.cpp:31) - this is a warn message, not too bad.
+2014-01-31 05:47:55,405 ERROR  (testLog4cxx.cpp:32) - this is a error message, something serious is happening.
+2014-01-31 05:47:55,405 FATAL  (testLog4cxx.cpp:33) - this is a fatal message!!!
+2014-01-31 05:47:55,406 INFO   (testLog4cxx.cpp:16) - Executing functionA.
+2014-01-31 05:47:55,406 INFO   (testLog4cxx.cpp:16) - Executing functionA.
+2014-01-31 05:48:45,570 TRACE  (testLog4cxx.cpp:26) - this is a debug message for detailed code discovery. Value=5
+2014-01-31 05:48:45,571 INFO   (testLog4cxx.cpp:28) - TEST TEST TEST this is a debug message for detailed code discovery. Value=5
+2014-01-31 05:48:45,571 INFO   (testLog4cxx.cpp:28) - TEST TEST TEST this is a debug message for detailed code discovery. Value=5
+2014-01-31 05:48:45,571 DEBUG  (testLog4cxx.cpp:29) - this is a debug message.
+2014-01-31 05:48:45,571 INFO   (testLog4cxx.cpp:30) - this is a info message, ignore. Value=5
+2014-01-31 05:48:45,571 WARN   (testLog4cxx.cpp:31) - this is a warn message, not too bad.
+2014-01-31 05:48:45,571 ERROR  (testLog4cxx.cpp:32) - this is a error message, something serious is happening.
+2014-01-31 05:48:45,571 FATAL  (testLog4cxx.cpp:33) - this is a fatal message!!!
+2014-01-31 05:48:45,571 INFO   (testLog4cxx.cpp:16) - Executing functionA.
+2014-01-31 05:48:45,571 INFO   (testLog4cxx.cpp:16) - Executing functionA.
+2014-01-31 05:49:06,514 TRACE  (testLog4cxx.cpp:26) - this is a debug message for detailed code discovery. Value=5
+2014-01-31 05:49:06,514 INFO   (testLog4cxx.cpp:28) - TEST TEST TEST this is a debug message for detailed code discovery. Value=5
+2014-01-31 05:49:06,514 INFO   (testLog4cxx.cpp:28) - TEST TEST TEST this is a debug message for detailed code discovery. Value=5
+2014-01-31 05:49:06,515 DEBUG  (testLog4cxx.cpp:29) - this is a debug message.
+2014-01-31 05:49:06,515 INFO   (testLog4cxx.cpp:30) - this is a info message, ignore. Value=5
+2014-01-31 05:49:06,516 WARN   (testLog4cxx.cpp:31) - this is a warn message, not too bad.
+2014-01-31 05:49:06,516 ERROR  (testLog4cxx.cpp:32) - this is a error message, something serious is happening.
+2014-01-31 05:49:06,516 FATAL  (testLog4cxx.cpp:33) - this is a fatal message!!!
+2014-01-31 05:49:06,516 INFO   (testLog4cxx.cpp:16) - Executing functionA.
+2014-01-31 05:49:06,516 INFO   (testLog4cxx.cpp:16) - Executing functionA.
+2014-01-31 05:49:18,201 TRACE  (testLog4cxx.cpp:26) - this is a debug message for detailed code discovery. Value=5
+2014-01-31 05:49:18,202 DEBUG  (testLog4cxx.cpp:29) - this is a debug message.
+2014-01-31 05:49:18,202 INFO   (testLog4cxx.cpp:30) - this is a info message, ignore. Value=5
+2014-01-31 05:49:18,202 WARN   (testLog4cxx.cpp:31) - this is a warn message, not too bad.
+2014-01-31 05:49:18,203 ERROR  (testLog4cxx.cpp:32) - this is a error message, something serious is happening.
+2014-01-31 05:49:18,203 FATAL  (testLog4cxx.cpp:33) - this is a fatal message!!!
+2014-01-31 05:49:18,203 INFO   (testLog4cxx.cpp:16) - Executing functionA.
+2014-01-31 05:49:18,203 INFO   (testLog4cxx.cpp:16) - Executing functionA.
+2014-01-31 05:49:35,498 TRACE  (testLog4cxx.cpp:26) - this is a debug message for detailed code discovery. Value=5
+2014-01-31 05:49:35,498 INFO   (testLog4cxx.cpp:27) - FA this is a debug message for detailed code discovery. Value=5
+2014-01-31 05:49:35,498 INFO   (testLog4cxx.cpp:27) - FA this is a debug message for detailed code discovery. Value=5
+2014-01-31 05:49:35,498 DEBUG  (testLog4cxx.cpp:29) - this is a debug message.
+2014-01-31 05:49:35,498 INFO   (testLog4cxx.cpp:30) - this is a info message, ignore. Value=5
+2014-01-31 05:49:35,498 WARN   (testLog4cxx.cpp:31) - this is a warn message, not too bad.
+2014-01-31 05:49:35,498 ERROR  (testLog4cxx.cpp:32) - this is a error message, something serious is happening.
+2014-01-31 05:49:35,498 FATAL  (testLog4cxx.cpp:33) - this is a fatal message!!!
+2014-01-31 05:49:35,498 INFO   (testLog4cxx.cpp:16) - Executing functionA.
+2014-01-31 05:49:35,498 INFO   (testLog4cxx.cpp:16) - Executing functionA.
+2014-01-31 05:49:48,953 TRACE  (testLog4cxx.cpp:26) - this is a debug message for detailed code discovery. Value=5
+2014-01-31 05:49:48,953 INFO   (testLog4cxx.cpp:27) - FA this is a debug message for detailed code discovery. Value=5
+2014-01-31 05:49:48,953 INFO   (testLog4cxx.cpp:27) - FA this is a debug message for detailed code discovery. Value=5
+2014-01-31 05:49:48,953 INFO   (testLog4cxx.cpp:28) - TEST TEST TEST this is a debug message for detailed code discovery. Value=5
+2014-01-31 05:49:48,953 INFO   (testLog4cxx.cpp:28) - TEST TEST TEST this is a debug message for detailed code discovery. Value=5
+2014-01-31 05:49:48,953 DEBUG  (testLog4cxx.cpp:29) - this is a debug message.
+2014-01-31 05:49:48,953 INFO   (testLog4cxx.cpp:30) - this is a info message, ignore. Value=5
+2014-01-31 05:49:48,953 WARN   (testLog4cxx.cpp:31) - this is a warn message, not too bad.
+2014-01-31 05:49:48,953 ERROR  (testLog4cxx.cpp:32) - this is a error message, something serious is happening.
+2014-01-31 05:49:48,953 FATAL  (testLog4cxx.cpp:33) - this is a fatal message!!!
+2014-01-31 05:49:48,953 INFO   (testLog4cxx.cpp:16) - Executing functionA.
+2014-01-31 05:49:48,953 INFO   (testLog4cxx.cpp:16) - Executing functionA.

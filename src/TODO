@@ -1,0 +1,36 @@
+General
+
+- Clean up pointers, iterators, references. 
+- consistent use of ++i vs i++
+- Clean up Masters. GrandMaster, Master, NotifyingMaster, AllSubsMaster and (xfader) LevelMaster can probably be all of the same class. Just need a single Master (perhaps renamed to Fader) class with notiying capabilty.
+- (DECLINED --) Instead of passing dimmer/universe/channel pointers around, make all references by number, and use a global/static array with read function?
+- Replace scene, cue and master notification mechanism by boost::signals ?
+- Use scene and cue const references where possible? (Submasters / Cuestacks / Crossfaders really don't need the ability to modify scenes or cues)
+- Change/delete notification mechanism for cues and cue stacks. That should also avoid crash at the end (which happens because we access a scene that has already been deleted, via a cue that has already been deleted.)
+
+- Move channel/dimmer/universe/submaster/scene/cuestack repository into application class and use "operator[]"? (i.e. Application::Channels[] instead of Channel::findByNum())
+
+- Clean up headers. No inline code in actual class definitions.
+
+- Write complete (and more modular) unit testing code
+
+- Document limitations resulting from numerical types used
+  - i.e. max cue ID (integer), max universes/channels/submasters (integer),
+  - max fade times (# steps)
+
+- clean up unused variables
+
+- Get rid (again) of MASTER_MAX_VALUE and replace it with a per-master attribute.
+
+CueStack
+
+- Before deleting cue, ensure that all other cues which have this cue as "JumpTo" target have their jumpto target removed.
+- Provide some sort of "(bool) check-if-safe-to-delete-cue" function that will tell if the cue about to be delete is used elsewhere
+
+CrossfaderWorker
+
+- maintain const refererence to owning crossfader
+- create getPhyFrom and returnPhyTo helper functions
+- be sure to call returnPhyTo in destructor
+- Make CrossfaderWorker aware of which cue and scene it's fading to?
+- Replace scene pointers by pass-by-value? (And update when scene changed?) Ditto for Cues?
